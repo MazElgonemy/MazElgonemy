@@ -7,9 +7,9 @@ I recently completed an intensive 24 week course at Le Wagon where I succesfully
 
  <br>
   
-  🎸 Melomane - A live music events library
+  🎸 <a href="https://github.com/MazElgonemy/Melomane"> Melomane </a> - A live music events library
   
-  ⭐ PaparazziEgoBooster - An AirBnb clone with a spin 
+  ⭐ <a href="https://github.com/MazElgonemy/Paparazzi-ego-booster"> PaparazziEgoBooster </a> - An AirBnb clone with a spin 
   
   <br>
   
