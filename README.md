@@ -27,6 +27,7 @@ I recently completed an intensive 24 week course at Le Wagon where I succesfully
    <br> 
    
 ## Connect with me on <a href="www.linkedin.com/in/mazelgonemy1997" target="_blank"> LinkedIn </a>
+## Check out my <a href="https://flowcv.com/resume/ls25iiiq7d" target="_blank">  CV </a>
 
 <!--
 **MazElgonemy/MazElgonemy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
