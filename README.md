@@ -3,13 +3,15 @@
 <br>
 
 I am a software developer living in Manchester, UK.
-I currently develop .NET and Blazor applications for <strong> Oldham Council </strong>. 
+I currently develop .NET and Blazor applications for <strong> Oldham Council </strong> which are used by end users living in the Oldham area. 
+
+Two of my most recetn projects are: 
 
  <br>
   
-  🎸 <a href="https://github.com/MazElgonemy/Melomane"> Melomane </a> - A live music events library
+  🎸 <a href="https://github.com/MazElgonemy/Melomane"> SpookyAI </a> - A themed AI Chatbot applicatio with a story generator function and fact finder 
   
-  ⭐ <a href="https://github.com/MazElgonemy/Paparazzi-ego-booster"> PaparazziEgoBooster </a> - An AirBnb clone with a spin 
+  ⭐ <a href="https://github.com/MazElgonemy/Paparazzi-ego-booster"> Speed Checker </a> - An application to keep track of historic internet speeds and visualise and analyse them
   
   <br>
   
