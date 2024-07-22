@@ -30,6 +30,15 @@ Two of my most recent projects are:
   <img src="https://raw.githubusercontent.com/github/explore/main/topics/csharp/csharp.png" alt="C#" width="100" />
   <img src="https://raw.githubusercontent.com/github/explore/main/topics/javascript/javascript.png" alt="JavaScript" width="100" />
   <img src="https://raw.githubusercontent.com/github/explore/main/topics/jquery/jquery.png" alt="JQuery" width="100" />
+  <img src="https://raw.githubusercontent.com/github/explore/main/topics/pandas/pandas.png" alt="Pandas" width="100" />
+  <img src="https://raw.githubusercontent.com/github/explore/main/topics/html/html.png" alt="HTML" width="100" />
+  <img src="https://raw.githubusercontent.com/github/explore/main/topics/css/css.png" alt="CSS" width="100" />
+  <img src="https://raw.githubusercontent.com/github/explore/main/topics/jinja/jinja.png" alt="Jinja" width="100" />
+  <img src="https://raw.githubusercontent.com/github/explore/main/topics/bootstrap/bootstrap.png" alt="Bootstrap" width="100" />
+  <img src="https://raw.githubusercontent.com/github/explore/main/topics/azure/azure.png" alt="Azure" width="100" />
+  <img src="https://raw.githubusercontent.com/github/explore/main/topics/sql-server/sql-server.png" alt="Microsoft SQL Server" width="100" />
+  <img src="https://raw.githubusercontent.com/github/explore/main/topics/sql/sql.png" alt="SQL" width="100" />
+  <img src="https://raw.githubusercontent.com/github/explore/main/topics/postgresql/postgresql.png" alt="PostgreSQL" width="100" />
 </p>
 
    <br> 
