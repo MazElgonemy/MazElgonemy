@@ -9,7 +9,7 @@ Two of my most recent projects are:
 
  <br>
   
-  🎸 <a href="https://github.com/MazElgonemy/Melomane"> SpookyAI </a> - A themed AI Chatbot applicatio with a story generator function and fact finder 
+  🎸 <a href="https://github.com/MazElgonemy/Speed-Checker1"> SpookyAI </a> - A themed AI Chatbot applicatio with a story generator function and fact finder 
   
   ⭐ <a href="https://github.com/MazElgonemy/Paparazzi-ego-booster"> Speed Checker </a> - An application to keep track of historic internet speeds and visualise and analyse them
   
