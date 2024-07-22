@@ -5,7 +5,8 @@
 I am a software developer living in Manchester, UK.
 I currently develop .NET and Blazor applications for <strong> Oldham Council </strong> which are used by end users living in the Oldham area. 
 
-Two of my most recent projects are: 
+
+Two of my most recent personal projects are: 
 
  <br>
   
