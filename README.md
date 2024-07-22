@@ -10,9 +10,9 @@ Two of my most recent personal projects are:
 
  <br>
   
-  🎸 <a href="https://github.com/MazElgonemy/Speed-Checker1"> SpookyAI </a> - A themed AI Chatbot application with a story generator function and fact finder 
+  <a href="https://github.com/MazElgonemy/Speed-Checker1"> SpookyAI </a> - A themed AI Chatbot application with a story generator function and fact finder 
   
-  ⭐ <a href="https://github.com/MazElgonemy/Speed-Checker1"> Speed Checker </a> - An application to keep track of historic internet speeds and visualise and analyse them
+  <a href="https://github.com/MazElgonemy/Speed-Checker1"> Speed Checker </a> - An application to keep track of historic internet speeds and visualise and analyse them
   
   <br>
   
