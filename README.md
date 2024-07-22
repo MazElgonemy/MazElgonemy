@@ -2,8 +2,8 @@
 
 <br>
 
-I am a junior software developer living in Manchester, UK.
-I recently completed an intensive 24 week course at Le Wagon where I succesfully <strong >developed </strong>:
+I am a software developer living in Manchester, UK.
+I currently develop .NET and Blazor applications for <strong> Oldham Council </strong>. 
 
  <br>
   
