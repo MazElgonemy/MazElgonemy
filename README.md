@@ -5,7 +5,7 @@
 I am a software developer living in Manchester, UK.
 I currently develop .NET and Blazor applications for <strong> Oldham Council </strong> which are used by end users living in the Oldham area. 
 
-Two of my most recetn projects are: 
+Two of my most recent projects are: 
 
  <br>
   
@@ -26,35 +26,18 @@ Two of my most recetn projects are:
  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" width="100" />
 </p>
 
-### Ruby on Rails
-![Ruby on Rails](https://raw.githubusercontent.com/github/explore/main/topics/rails/rails.png)
-
-### Flask
-![Flask](https://raw.githubusercontent.com/github/explore/main/topics/flask/flask.png)
-
-### Python
-![Python](https://raw.githubusercontent.com/github/explore/main/topics/python/python.png)
-
-### Numpy
-![Numpy](https://raw.githubusercontent.com/github/explore/main/topics/numpy/numpy.png)
-
-### Matplotlib
-![Matplotlib](https://matplotlib.org/_static/images/logo2.svg)
-
-### Blazor
-![Blazor](https://raw.githubusercontent.com/github/explore/main/topics/blazor/blazor.png)
-
-### .NET 8
-![.NET 8](https://raw.githubusercontent.com/github/explore/main/topics/dotnet/dotnet.png)
-
-### C#
-![C#](https://raw.githubusercontent.com/github/explore/main/topics/csharp/csharp.png)
-
-### JavaScript
-![JavaScript](https://raw.githubusercontent.com/github/explore/main/topics/javascript/javascript.png)
-
-### JQuery
-![JQuery](https://raw.githubusercontent.com/github/explore/main/topics/jquery/jquery.png)
+<p align="center">
+  <img src="https://raw.githubusercontent.com/github/explore/main/topics/rails/rails.png" alt="Ruby on Rails" width="100" />
+  <img src="https://raw.githubusercontent.com/github/explore/main/topics/flask/flask.png" alt="Flask" width="100" />
+  <img src="https://raw.githubusercontent.com/github/explore/main/topics/python/python.png" alt="Python" width="100" />
+  <img src="https://raw.githubusercontent.com/github/explore/main/topics/numpy/numpy.png" alt="Numpy" width="100" />
+  <img src="https://matplotlib.org/_static/images/logo2.svg" alt="Matplotlib" width="100" />
+  <img src="https://raw.githubusercontent.com/github/explore/main/topics/blazor/blazor.png" alt="Blazor" width="100" />
+  <img src="https://raw.githubusercontent.com/github/explore/main/topics/dotnet/dotnet.png" alt=".NET 8" width="100" />
+  <img src="https://raw.githubusercontent.com/github/explore/main/topics/csharp/csharp.png" alt="C#" width="100" />
+  <img src="https://raw.githubusercontent.com/github/explore/main/topics/javascript/javascript.png" alt="JavaScript" width="100" />
+  <img src="https://raw.githubusercontent.com/github/explore/main/topics/jquery/jquery.png" alt="JQuery" width="100" />
+</p>
 
    <br> 
    
