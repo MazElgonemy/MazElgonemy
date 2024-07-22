@@ -43,7 +43,7 @@ Two of my most recent projects are:
 
    <br> 
    
-## Connect with me on <a href="www.linkedin.com/in/mazelgonemy1997/" target="_blank"> LinkedIn </a>
+## Connect with me on <a href="https://linkedin.com/in/mazelgonemy1997/" target="_blank"> LinkedIn </a>
 ## Check out my <a href="https://flowcv.com/resume/ls25iiiq7d" target="_blank">  CV </a>
 
 <!--
