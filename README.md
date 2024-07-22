@@ -9,9 +9,9 @@ Two of my most recent projects are:
 
  <br>
   
-  🎸 <a href="https://github.com/MazElgonemy/Speed-Checker1"> SpookyAI </a> - A themed AI Chatbot applicatio with a story generator function and fact finder 
+  🎸 <a href="https://github.com/MazElgonemy/Speed-Checker1"> SpookyAI </a> - A themed AI Chatbot application with a story generator function and fact finder 
   
-  ⭐ <a href="https://github.com/MazElgonemy/Paparazzi-ego-booster"> Speed Checker </a> - An application to keep track of historic internet speeds and visualise and analyse them
+  ⭐ <a href="https://github.com/MazElgonemy/Speed-Checker1"> Speed Checker </a> - An application to keep track of historic internet speeds and visualise and analyse them
   
   <br>
   
@@ -43,9 +43,8 @@ Two of my most recent projects are:
 
    <br> 
    
-## Connect with me on <a href="www.linkedin.com/in/mazelgonemy1997" target="_blank"> LinkedIn </a>
+## Connect with me on <a href="www.linkedin.com/in/mazelgonemy1997/" target="_blank"> LinkedIn </a>
 ## Check out my <a href="https://flowcv.com/resume/ls25iiiq7d" target="_blank">  CV </a>
-## Check out my <a href="https://troopl.com/mazelgonemy"> work </a>
 
 <!--
 **MazElgonemy/MazElgonemy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
